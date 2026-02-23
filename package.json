@@ -1,11 +1,15 @@
 {
   "name": "@indigitalxp/core-minicart",
+  "version": "1.0.0",
+  "files": ["dist"],
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
+  "sideEffects": false,
   "scripts": {
     "build": "tsup",
     "prepare": "pnpm build"
