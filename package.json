@@ -22,6 +22,6 @@
     "react-dom": "^19.0.0"
   },
   "dependencies": {
-    "@indigitalxp/ui-components": "github:dgcabanillas/test-ui-components#v1.0.6"
+    "@indigitalxp/ui-components": "github:dgcabanillas/test-ui-components#v1.0.7"
   }
 }

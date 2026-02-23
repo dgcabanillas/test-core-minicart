@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@indigitalxp/ui-components':
-        specifier: github:dgcabanillas/test-ui-components#v1.0.6
-        version: https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/24985d666980cd0018a4e90a96411b6559c940aa(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: github:dgcabanillas/test-ui-components#v1.0.7
+        version: https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/5a519a35a1ae861dfd552a28a620da3ddfbb254d(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
     devDependencies:
       '@types/react':
         specifier: ^19.2.7
@@ -189,8 +189,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@indigitalxp/ui-components@https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/24985d666980cd0018a4e90a96411b6559c940aa':
-    resolution: {tarball: https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/24985d666980cd0018a4e90a96411b6559c940aa}
+  '@indigitalxp/ui-components@https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/5a519a35a1ae861dfd552a28a620da3ddfbb254d':
+    resolution: {tarball: https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/5a519a35a1ae861dfd552a28a620da3ddfbb254d}
     version: 1.0.0
     peerDependencies:
       react: ^19.0.0
@@ -653,7 +653,7 @@ snapshots:
   '@esbuild/win32-x64@0.27.3':
     optional: true
 
-  '@indigitalxp/ui-components@https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/24985d666980cd0018a4e90a96411b6559c940aa(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@indigitalxp/ui-components@https://codeload.github.com/dgcabanillas/test-ui-components/tar.gz/5a519a35a1ae861dfd552a28a620da3ddfbb254d(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
