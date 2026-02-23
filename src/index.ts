@@ -1,0 +1,1 @@
+export { default as Minicart } from "./Minicart";
